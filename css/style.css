@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+    font-family: 'Courier New', Courier, monospace;
+}
+.header{
+    background-color: cadetblue;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 6rem;
+    align-items: center;
+}
+
+.menu{
+    display: flex;
+}
+
+.items{
+    padding: 0 2rem;
+    font-size: 25px;
+}
+
+.container{
+    display: flex;
+}
+
+.sidebar{
+    width: 25%;
+    background: aqua;
+}
+
+.content {
+    width: 75%;
+    background: beige;
+}
+
+.footer{
+    background-color: aquamarine;
+}
