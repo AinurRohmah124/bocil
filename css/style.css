@@ -30,9 +30,28 @@ body{
 
 .content {
     width: 75%;
-    background: beige;
 }
 
 .footer{
     background-color: aquamarine;
 }
+
+.contentList {
+    display: flex;
+}
+
+.history{
+    background-color: aquamarine;
+}
+
+.isi{
+    display: flex;
+    width: 100%;
+    align-items: center;
+}
+
+.paddingList{
+    padding: 10px;
+}
+
+
